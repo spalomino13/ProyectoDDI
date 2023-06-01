@@ -20,3 +20,13 @@ Diseñar un dispositivo que permita la deteccion de temperatura corporal, mostra
 |  001  | Node-Red | v2.2.2 | Software Libre |
 |    |          |         |      |
 |    |          |         |      |
+## Tabla de historias de usuario
+| Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
+|----|---------------------|-----------|------------|---------------|-------------|
+| USERHISTORY_001 | Yo como adulto meyor quiero que la mano inteligente detecte mi presion arterial y me muestre los datos de manera continua mandando una alerta cuando los nivelesson bajos o altos, para el correcto seguimiento de mi enfermedad | Debe, Puede, Estaria bien, No se hara |  0.7  | El adulto mayor se coloca el dispositivo en el cuello y preciosa el boton de encendido y el dispositivo desplegara la informacion en la pantalla inteligente, desplegando tambien alertas sonoras y visuales en caso fuera de rango | Samuel |
+|    |                     |           |            |               |             |
+|    |                     |           |            |               |             |
+##Prototipo en dibujo
+- Imagen
+- Dibujo en lapiz
+##
