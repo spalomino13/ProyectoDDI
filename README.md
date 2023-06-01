@@ -12,5 +12,11 @@ Diseñar un dispositivo que permita la deteccion de temperatura corporal, mostra
 ## Materiales a utilizar 
 |ID|Nombre|Descripcion|Imagen|Costo Unitario|Cantidad|
 |---|-----|-----------|------|--------------|--------|
-|001|ESP32|DESCRIPCION de SP32|<img src="https://github.com/spalomino13/ProyectoDDI/assets/105385260/36fbaaee-9b89-4cc1-99fc-d31a1709ae33" width="50px" />|$ 170.00|2|
+|001|ESP32|Numero de Pines, Cuanto de Ram, Cuanto de FLash, Numero de nucleos, etc|<img src="https://github.com/spalomino13/ProyectoDDI/assets/105385260/36fbaaee-9b89-4cc1-99fc-d31a1709ae33" width="100px" />|$ 170.00|2|
 |002|-----|-----------|------|--------------|--------|
+## Tabla de Software utilizado
+| Id | Software | Version | Tipo |
+|----|----------|---------|------|
+|    |          |         |      |
+|    |          |         |      |
+|    |          |         |      |
