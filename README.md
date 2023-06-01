@@ -17,6 +17,6 @@ Diseñar un dispositivo que permita la deteccion de temperatura corporal, mostra
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|    |          |         |      |
+|  001  | Node-Red | v2.2.2 | Software Libre |
 |    |          |         |      |
 |    |          |         |      |
