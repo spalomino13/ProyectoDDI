@@ -12,3 +12,5 @@ Diseñar un dispositivo que permita la deteccion de temperatura corporal, mostra
 ## Materiales a utilizar 
 |ID|Nombre|Descripcion|Imagen|Costo Unitario|Cantidad|
 |---|-----|-----------|------|--------------|--------|
+|001|SP32|DESCRIPCION de SP32|NOSE|2300|5|
+|002|-----|-----------|------|--------------|--------|
